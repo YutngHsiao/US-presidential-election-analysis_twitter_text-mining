@@ -36,3 +36,5 @@ post will be shown in the end. Including the social network diagram of Mr Sander
 - Sentimental test was introduced by using Naïve Bayes classifier in python. 
 - The score of opinion lexicons was introduced in both R/python
 - Social network from Retweets
+
+#[Live Demo](https://jony0912.shinyapps.io/US_presendent_election_analysis_Twitter_text_mining/)
