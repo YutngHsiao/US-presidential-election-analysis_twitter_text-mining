@@ -1,10 +1,9 @@
 # US-presidential-election-analysis_twitter_text-mining
 #[DEMO](https://jony0912.shinyapps.io/US_presendent_election_analysis_Twitter_text_mining/)
 
-This report is to analyse the public opinions for Mr Sanders on Twitter, to reveal how people think about him and 
-evaluate the degree of support on social media. 
-Finally, the major terms, topics people use to mention Mr Sanders and the percentage of positive / negative 
-post will be shown in the end. Including the social network diagram of Mr Sanders’ supporter retweets.
+This report is to analyse the public opinions for the US persidental candidate Bernie Sanders on Twitter, to reveal how people think about him and evaluate the degree of support on social media. 
+Finally, the major terms and topics that people used to mention about Sanders and the percentage of positive / negative 
+post will be revealed. Including the social network diagram of Sanders’ supporters.
 
 -	More than 45000 tweets were collected from twitter (07-17/04/2016) in python.
 -	Source data was pre-processed through extracting, cleaning and stemming.
