@@ -1,4 +1,5 @@
 # US-presidential-election-analysis_twitter_text-mining
+#[DEMO](https://jony0912.shinyapps.io/US_presendent_election_analysis_Twitter_text_mining/)
 
 This report is to analyse the public opinions for Mr Sanders on Twitter, to reveal how people think about him and 
 evaluate the degree of support on social media. 
@@ -37,4 +38,4 @@ post will be shown in the end. Including the social network diagram of Mr Sander
 - The score of opinion lexicons was introduced in both R/python
 - Social network from Retweets
 
-#[Live Demo](https://jony0912.shinyapps.io/US_presendent_election_analysis_Twitter_text_mining/)
+
