@@ -13,10 +13,10 @@ post will be revealed. Including the social network diagram of Sanders’ suppor
 
 #Analysis
 -	The most competitive candidate against Mr Bernie is Hillary Clinton.
--	The TV and web media plays massive role in the election to divert public opinion, e.g. Saturday night live, feel the bern.
--	People don’t trust political show and speech.
--	Mr Bernie won high reputation and support in New York.
--	70% of posters who mentioned about Mr Bernie were not likely to support him.
+-	The TV and web medias play massive role in the election to divert public opinion, e.g. Saturday night live, feel the bern.
+-	People don’t trust political shows and speech.
+-	Bernie won highly support in New York.
+-	70% of posters who mentioned about Bernie were not likely to support him.
 -	Half of re-tweets were done by Bernie supporters. 
 
 #Conclusion
@@ -35,6 +35,6 @@ post will be revealed. Including the social network diagram of Sanders’ suppor
 - The association terms with “Bernie”, “Hillary”, and “Trump” can be found by using keyword correlation. 
 - Sentimental test was introduced by using Naïve Bayes classifier in python. 
 - The score of opinion lexicons was introduced in both R/python
-- Social network from Retweets
+- The social network from Retweets
 
 
