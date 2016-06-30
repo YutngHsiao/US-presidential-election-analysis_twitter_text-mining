@@ -23,7 +23,7 @@ post will be revealed. Including the social network diagram of Sanders’ suppor
 -	Enhance supporter network to increase retweets.
 -	Stop offensive speech about Hillary’s personality.
 
-#Package using:
+#Package used:
 - The package “tweepy” was used to collect tweets on twitter, by targeting the query “Bernie” and “Bernie Sanders”.
 - TextBlob package was used to correct the spelling. However, several words were mis-corrected, especially the candidates’ names.
 - By using “gsub” and “grepl” with regular expression, source tweets can be cleaned and extracted.
